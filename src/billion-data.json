@@ -1,0 +1,37 @@
+{
+        "1" : {
+        "name" : "Elon Musk",
+        "rank" : "1",
+        "wealth" : 199800000000,
+        "wealth-string" : 199.8,
+        "img" : "elon.webp"
+    },
+    "2" : {
+        "name" : "Jeff Bezos",
+        "rank" : "4",
+        "wealth" : 124100000000,
+        "wealth-string" : 124.1,
+        "img" : "jeff.jpg"
+    },
+    "3" : {
+        "name" : "Gautam Adani",
+        "rank" : "3",
+        "wealth" : 146500000000,
+        "wealth-string" : 146.5,
+        "img" : "gautam.jpg"
+    },
+    "4" : {
+        "name" : "Bill Gates",
+        "rank" : "6",
+        "wealth" : 105000000000,
+        "wealth-string" : 105.0,
+        "img" : "bill.jpg"
+    },
+    "5" : {
+        "name" : "Mukesh Ambani",
+        "rank" : "8",
+        "wealth" : 94700000000,
+        "wealth-string" : 94.7,
+        "img" : "mukesh.jpg"
+    }    
+}
