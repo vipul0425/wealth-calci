@@ -1,0 +1,173 @@
+/* header css */
+.logo-img{
+    height: 60px;
+}
+/* app css */
+.form-control{
+    background: transparent;
+    color: #fff;
+}
+.form-control:focus{
+    background: transparent;
+    color: #fff;
+    border-color: #DE774E;
+    box-shadow: 0 0 0 0.25rem rgb(222, 119, 78,25%);
+}
+/* button css */
+.btn-color{
+    background-color: #DE774E;
+    color: #000;
+    font-weight: bolder;
+}
+.btn-color:hover{
+    background-color: #DE774E;
+    color: #000;
+    font-weight: bolder;
+}
+.btn.disabled{
+    background-color: #DE774E;
+    color: #000;
+}
+
+/* card css */
+.card{
+border-width: 1px 0 0 0;
+}
+.card-btn{
+    border: 1px solid #DE774E;
+    background-color: #DE774E;
+    font-weight: bolder;
+    border-radius: 0;
+}
+.card-btn:hover{
+    border: 1px solid #DE774E;
+    background-color: #DE774E;
+    font-weight: bolder;
+
+}
+.img-div{
+    max-height: 350px; 
+    overflow: hidden;
+    padding: 8px;
+}
+.card-img-top{
+    max-height: 240px;
+    object-fit : contain;
+}
+.border-orange{
+    border-color: #DE774E !important;
+}
+.reciet-div{
+    max-height: calc(100vh - 260px);
+}
+.bg-orange{
+    background-color: #DE774E;
+    color:#000;
+}
+.currBtn{
+    background-color: #DE774E;
+    border: 0;
+    font-weight: 700;
+    font-size: large;
+}
+.currBtn:focus{
+    background-color: #DE774E;
+    border-color: none;
+    box-shadow: none;
+}
+.currBtnLand:focus{
+    border-color: #DE774E;
+    box-shadow: 0 0 0 0.25rem rgb(222, 119, 78,25%);
+}
+.footer{
+    position: relative;
+    bottom: 0;
+}
+.text-orange{
+    color: #DE774E;
+}
+.text-orange:hover{
+    color: #DE774E;
+}
+.overlay{
+    background: rgb(0,0,0,.8);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 13;
+}
+
+@keyframes modal-in {
+    0%,
+    50%{
+        transform: scale(0.5);
+        opacity: 0.4;
+    }
+    55%,
+    75%{
+        transform: scale(0.8);
+        opacity: 0.8;
+    }
+    100%{
+        transform: scale(1) translateY(0);
+    }
+    
+}
+@keyframes modal-out {
+    0%{transform: scale(1);
+    opacity: 1 }
+    25%{
+        transform: scale(0.8);
+        opacity: 0.8;
+    }
+    50%{
+        transform: scale(0.5);
+        opacity: 0.4;
+    }
+    55%,
+    100%{
+        transform: scale(0);
+        opacity: 0;
+    }
+    
+}
+@keyframes model-content-in {
+    0%,
+    75%{
+        opacity: 0;
+    }
+    85%,
+    100%{opacity: 1;}
+}
+.modal-box{
+    transition: all .15s;
+    animation: .15s linear 0s modal-in;
+}
+.modal-content{
+    overflow-y: auto;
+    overflow-x: hidden;
+    animation: model-content-in .25s both;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+button:disabled,
+button[disabled]{
+    background-color: #DE774E !important;
+    border: 0;
+}
+@media print {
+    body * {
+      visibility: hidden;
+    }
+    #section-to-print, #section-to-print * {
+      visibility: visible;
+    }
+    #section-to-print {
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+  }

@@ -1,0 +1,173 @@
+{
+    "accessories": [
+        {
+            "id" : 1,
+            "name": "G-SHOCK MRG-B2000 Series",
+            "price": 8000.00,
+            "image": "MRG-B2000GA-1A.webp"
+        },
+        {
+            "id" : 2,
+            "name": "Rolex GMT-MASTER II",
+            "price": 16000.00,
+            "image": "m126711chnr-0002.webp"
+        },
+        {
+            "id" : 3,
+            "name": "LUMINOX Bear Grylls Watch",
+            "price": 732.59,
+            "image": "luminox.webp"
+        },
+        {
+            "id" : 4,
+            "name": "Apple Watch Ultra",
+            "price": 799.00,
+            "image": "mxw_1650,s_webp,f_auto.png"
+        },
+        {
+            "id" : 5,
+            "name": "Apple 14 pro max",
+            "price": 1599.00,
+            "image": "71T5NVOgbpL._SX679_.jpg"
+        },
+        {
+            "id" : 6,
+            "name": "Samsung Galaxy Fold 4",
+            "price": 1799.00,
+            "image": "galaxy.webp"
+        },
+        {
+            "id" : 7,
+            "name": "Apple iPad top specs",
+            "price": 799.99,
+            "image": "mxw_1650,s_webp,f_auto (1).webp"
+        },
+        {
+            "id" : 8,
+            "name": "Macbook top specs",
+            "price": 3499.00,
+            "image": "mxw_1650,s_webp,f_auto.webp"
+        },
+        {
+            "id" : 9,
+            "name": "Xbox Series X",
+            "price": 499.99,
+            "image": "d2d49e15-65ea-4e87-9d35-66123e183423.jpg"
+        },
+        {
+            "id" : 10,
+            "name": "Play Station 5",
+            "price": 499.99,
+            "image": "ps5-playstation-5-sony-hoyle-promo.webp"
+        },
+        {
+            "id" : 11,
+            "name": "Apple Airpods max",
+            "price": 549.00,
+            "image": "airpod.jpg"
+        },
+        {
+            "id" : 12,
+            "name": "Apple iMac",
+            "price": 6999.99,
+            "image": "mxw_1650,s_webp,f_auto (2).webp"
+        },
+        {
+            "id" : 13,
+            "name": "Nice pair of Jordans",
+            "desc": "Or any other pair of your fav sneakers (approx value)",
+            "price": 2000.00,
+            "image": "jordans.jpg"
+        },
+        {
+            "id" : 14,
+            "name": "Top Mechanical Keyboard",
+            "price": 500.00,
+            "image": "mechkeyboard.jpg"
+        },
+        {
+            "id" : 15,
+            "name": "Spotify for 10 years",
+            "price": 1000.00,
+            "image": "spotify.webp"
+        },
+        {
+            "id" : 16,
+            "name": "Netflix for 10 years",
+            "price": 2000.00,
+            "image": "netflix.webp"
+        },
+        {
+            "id" : 17,
+            "name": "Dodge Challenger Hellcat",
+            "price": 70830,
+            "image": "dodge.jpg"
+        },
+        {
+            "id" : 18,
+            "name": "Lamborghini Aventador",
+            "price": 546847,
+            "image": "lamborghini.jpg"
+        },
+        {
+            "id" : 19,
+            "name": "Jeep Wrangler (USA price)",
+            "price": 42215,
+            "image": "jeep.jpg"
+        },
+        {
+            "id" : 20,
+            "name": "Audi A3 (USA price)",
+            "price": 38500,
+            "image": "audi.jpg"
+        },
+        {
+            "id" : 21,
+            "name": "Penthouse in Dubai",
+            "price": 2559425,
+            "image": "dubai.jpg"
+        },
+        {
+            "id" : 22,
+            "name": "Modern Appartment",
+            "price": 240852,
+            "image": "modernApp.jpg"
+        },
+        {
+            "id" : 23,
+            "name": "luxury Appartment",
+            "price": 5109433,
+            "image": "luxuryApp.jpg"
+        },
+        {
+            "id" : 24,
+            "name": "Private Island",
+            "price": 8800000,
+            "image": "island.jpg"
+        },
+        {
+            "id" : 25,
+            "name": "Lifetime Airpass",
+            "price": 250000,
+            "image": "airpass.jpg"
+        },
+        {
+            "id" : 26,
+            "name": "SpaceX moon trip",
+            "price": 250000,
+            "image": "moon.jpg"
+        },
+        {
+            "id" : 27,
+            "name": "Private jet",
+            "price": 35000000,
+            "image": "jet.jpg"
+        },
+        {
+            "id" : 28,
+            "name": "Personal Yacht",
+            "price": 15000000,
+            "image": "yacht.jpg"
+        }
+    ]
+}
